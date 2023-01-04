@@ -1,0 +1,11 @@
+name: neuroimaging_dimred
+title:
+username:
+account: agronomous
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3850363
+bundleId: 6696935
+url: https://agronomous.shinyapps.io/neuroimaging_dimred/
+when: 1672839757.99024
+lastSyncTime: 1672839757.99025
