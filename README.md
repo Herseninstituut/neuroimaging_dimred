@@ -5,6 +5,8 @@
 
 This app allows to explore which combination of regions from an atlas yields the maximum separation between tasks/conditions/groups. The latter is estimated using different types of dimensionality reduction techniques.
 
+[Read the full article here](https://leonardoc.netlify.app/showcase/dimred_app/dimred_app)
+
 The low-dimensional embedding can then be inspected to see the profiles of the single maps which were grouped together.
 
 ![image](neuroimaging_dimred.gif)
